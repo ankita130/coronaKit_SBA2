@@ -1,0 +1,43 @@
+html {
+  background-color: #ffffff;
+}
+
+a {
+  color: #ffffff;
+  display:inline-block;
+  text-decoration: underline;
+  font-weight: 400;
+}
+
+h2 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  display:inline-block;
+  margin: 40px 8px 10px 8px; 
+  color: #ffffff;
+}
+
+h4 {
+  text-align: center;
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  display:inline-block;
+  margin: 40px 8px 10px 8px; 
+  color: #ffffff;
+}
+.middle {
+  font-size: 18px;
+  width: 100%;
+  height: 80%;
+  height: 80vh;
+  background-image:   url("//static.healthcare.siemens.com/siemens_hwem-hwem_ssxa_websites-context-root/wcm/idc/groups/public/@global/documents/image/mda5/njmz/~edisp/siemens-healthineers_press_confirmatory-test-kit-for-covid-19-07111353/~renditions/siemens-healthineers_press_confirmatory-test-kit-for-covid-19-07111353~8.jpg");
+
+}
+.footer{
+	bottom:0px;
+	width:100%;	
+    height: 10%;
+}
